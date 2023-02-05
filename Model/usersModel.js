@@ -31,9 +31,19 @@ const userSchema = new mongoose.Schema({
         type: String,
         default: 'user',
         enum: [ 'user', "seller" ]
-    },
-    products: Array
+    }
+},
+{
+    toJSON: { virtuals: true },
+    toObject: { virtuals: true }
 });
+
+// virtual populate
+userSchema.virtual('products', {
+    ref: 'Product',
+    foreignField: 'seller',
+    localField: '_id'
+})
 
 userSchema.pre('save', async function(next){
     if(!this.isModified('password')){
@@ -46,6 +56,7 @@ userSchema.pre('save', async function(next){
 
     next()
 })
+
 
 
 userSchema.methods.correctPassword = async function( candidatePassword, userPassword ) {

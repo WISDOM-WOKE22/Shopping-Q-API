@@ -55,6 +55,9 @@ const productSchema = new mongoose.Schema({
         }
     ],
     comments: []
+},{
+    toJSON: { virtuals: true },
+    toObject: { virtuals: true }
 });
 
 productSchema.pre(/^find/, function(next) {
