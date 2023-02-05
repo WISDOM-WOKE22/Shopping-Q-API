@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "name": "wisdom woke",
+        "email": "test@gmail.com",
+        "password": "test1234"
+    },
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "test@gmail.com",
+        "password":"test1234"
+    },
+    {
+        "id": 2,
+        "name": "Marry jean",
+        "email": "test@gmail.com",
+        "password":"test1234"
+    },
+    {
+        "id": 3,
+        "name": "Loura Linch",
+        "email": "test@gmail.com",
+        "password":"test1234"
+    },
+    {
+        "id": 4,
+        "name": "Jonas Vim",
+        "email": "test@gmail.com",
+        "password":"test1234"
+    },
+    {
+        "id": 5,
+        "name": "Alexander cain",
+        "email": "test@gmail.com",
+        "password":"test1234"
+    },
+    {
+        "id": 6,
+        "name": "Victory Trump",
+        "email": "test@gmail.com",
+        "password":"test1234"
+    },
+    {
+        "id": 7,
+        "name": "Barack Obamas",
+        "email": "test@gmail.com",
+        "password":"test1234"
+    },
+    {
+        "id": 8,
+        "name": "Bill Gates",
+        "email": "test@gmail.com",
+        "password":"test1234"
+    },
+    {
+        "id": 9,
+        "name": "peter lynch",
+        "email": "test@gmail.com",
+        "password":"test1234"
+    }
+]

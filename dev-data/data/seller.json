@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "name": "wisdom woke",
+        "email": "seller@gmail.com",
+        "password": "test@gmail.com",
+        "products": [],
+        "numbersOfProductsSold": 5,
+        "totalProducts": 10
+    },
+    {
+        "id": 0,
+        "name": "John cena",
+        "email": "seller1@gmail.com",
+        "password": "test@gmail.com",
+        "products": [],
+        "numbersOfProductsSold": 5,
+        "totalProducts": 10
+    },
+    {
+        "id": 0,
+        "name": "seller woke",
+        "email": "seller2@gmail.com",
+        "password": "test@gmail.com",
+        "products": [],
+        "numbersOfProductsSold": 5,
+        "totalProducts": 10
+    },
+    {
+        "id": 0,
+        "name": "Longman stin",
+        "email": "seller3@gmail.com",
+        "password": "test@gmail.com",
+        "products": [],
+        "numbersOfProductsSold": 5,
+        "totalProducts": 10
+    },
+    {
+        "id": 0,
+        "name": "oliver twist",
+        "email": "seller4@gmail.com",
+        "password": "test@gmail.com",
+        "products": [],
+        "numbersOfProductsSold": 5,
+        "totalProducts": 10
+    }
+]

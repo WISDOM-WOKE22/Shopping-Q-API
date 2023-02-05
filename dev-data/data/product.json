@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name":"Tesla model x",
+        "categories": "cars",
+        "price": "24000",
+        "type":"electric car",
+        "description":"This is tesla model x whic is the best type of electric car",
+        "rating":4.5,
+        "datePosted":"5-1-2023",
+        "quantity": 25,
+        "image":[],
+        "seller":[
+            {
+                "name": "wisdom woke"
+            },
+            {
+                "name": "Elon musk"
+            }
+        ],
+        "brand":"Tesla",
+        "discount":0,
+        "priceNagotiation":false,
+        "buyer":[
+            {
+                "name": "wilson churchil"
+            },
+            {
+                "name": "J. P. Mprgan"
+            }
+        ],
+        "commments":[]
+    },
+    {
+        "id":2,
+        "name":"louis T",
+        "categories": "T-shirt",
+        "price": "75",
+        "type":"clothes",
+        "description":"This is louis vulton T which is the best T ever made by louis vulton",
+        "rating":4.5,
+        "datePosted":"25-1-2023",
+        "quantity": 75,
+        "image":[],
+        "seller":[
+            {
+                "name": "joe woke"
+            },
+            {
+                "name": "Elon musk"
+            }
+        ],
+        "brand":"louis vulton",
+        "discount":10,
+        "priceNagotiation":false,
+        "buyer":[
+            {
+                "name": "wilson walter"
+            },
+            {
+                "name": "Rusell vent"
+            }
+        ],
+        "commments":[]
+    }
+]
